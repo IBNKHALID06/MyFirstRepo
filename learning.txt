@@ -1,0 +1,2 @@
+In this course, I learned how Git works locally and remotely, how branches
+help organize work, and how pull requests make collaboration easier.
